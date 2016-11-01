@@ -4,7 +4,7 @@
 
 WXCenter是一个开源的微信商城。为了保证轻量级，使用了iWshop作者自主开发的mvc框架。
 
-非官方维护版本更新记录 [https://github.com/lovebull/wxcenter/blob/master/versions.md](https://github.com/lovebull/wxcenter/blob/master/versions.md)
+非官方维护版本更新记录 [https://github.com/lovebull/wxcenter/blob/master/Versions.md](https://github.com/lovebull/wxcenter/blob/master/Versions.md)
 
 
 ***
