@@ -1,12 +1,19 @@
-#iWshop<微信开源商城>
+#WXCenter<微信开源Center>
 
-iWshop是一个开源的微信商城。为了保证轻量级，使用了作者自主开发的mvc框架。 
+这是基于iWshop基础上扩展开发的 基于 v0.9.6(2016-09-20)最后更新基础上为原始版本
 
-LightMvc现已分离 <a href="https://git.oschina.net/koodo/LightMvc">https://git.oschina.net/koodo/LightMvc</a> 
+WXCenter是一个开源的微信商城。为了保证轻量级，使用了iWshop作者自主开发的mvc框架。
 
->iWshop 交流群：`470442221`
+非官方维护版本更新记录 [https://github.com/lovebull/wxcenter/blob/master/versions.md](https://github.com/lovebull/wxcenter/blob/master/versions.md)
 
->iWshop 交流社区：<a href="http://asw.iwshop.cn/" target="_blank">http://asw.iwshop.cn/</a> 
+
+***
+
+
+LightMvc现已分离 <a href="https://git.oschina.net/koodo/LightMvc">https://git.oschina.net/koodo/LightMvc</a>
+
+
+>iWshop 交流社区：<a href="http://asw.iwshop.cn/" target="_blank">http://asw.iwshop.cn/</a>
 
 >iWshop 安装教程：<a href="http://git.oschina.net/koodo/iWshop/blob/dev/html/docs/install.md">http://git.oschina.net/koodo/iWshop/blob/dev/html/docs/install.md</a>
 
@@ -60,7 +67,7 @@ LightMvc现已分离 <a href="https://git.oschina.net/koodo/LightMvc">https://gi
 请编辑`config_sample.php`文件并且重命名为`config.php`
 
 ####五、运行环境要求
- 
+
     * MySQL 5.5.3+ (utf8mb4编码用于保存带有emoji表情的微信用户昵称)**
 
     * PHP5.4+
@@ -71,8 +78,8 @@ LightMvc现已分离 <a href="https://git.oschina.net/koodo/LightMvc">https://gi
 ####六、演示项目
 
 <img src="http://down.iwshop.cn/iwshop_release/images/qrcode3.jpg" height="140" width="140" style="border:1px solid #eee;margin-right:10px;" />
-<img src="http://down.iwshop.cn/iwshop_release/images/qrcode2.jpg" height="140" width="140" style="border:1px solid #eee;margin-right:10px;" /> 
-<img src="http://down.iwshop.cn/iwshop_release/images/qrcode1.jpg" height="140" width="140" style="border:1px solid #eee;margin-right:10px;" /> 
+<img src="http://down.iwshop.cn/iwshop_release/images/qrcode2.jpg" height="140" width="140" style="border:1px solid #eee;margin-right:10px;" />
+<img src="http://down.iwshop.cn/iwshop_release/images/qrcode1.jpg" height="140" width="140" style="border:1px solid #eee;margin-right:10px;" />
 <img src="http://down.iwshop.cn/iwshop_release/images/qrcode4.jpg" height="140" width="140" style="border:1px solid #eee;margin-right:10px;" />
 <img src="http://down.iwshop.cn/iwshop_release/images/qrcode5.jpg" height="140" width="140" style="border:1px solid #eee;margin-right:10px;" />
 <img src="http://down.iwshop.cn/iwshop_release/images/qrcode7.jpg" height="140" width="140" style="border:1px solid #eee;margin-right:10px;" />
@@ -83,14 +90,19 @@ LightMvc现已分离 <a href="https://git.oschina.net/koodo/LightMvc">https://gi
 <img src="http://down.iwshop.cn/iwshop_release/images/previews2.png" width="100%" />
 <img src="http://down.iwshop.cn/iwshop_release/images/previews3.png" width="100%" />
 
-## 相关下载
 
-><a href="http://down.iwshop.cn/iwshop_release/iwshop-beta-0.9.0.zip" target="_blank">iwshop-beta-0.9.0.zip</a> 
+##  扩展功能
+>扩展的新功能(截图相关)
 
-><a href="http://down.iwshop.cn/iwshop_release/iwshop-beta-0.9.1.zip" target="_blank">iwshop-beta-0.9.1.zip</a> 
 
-><a href="http://down.iwshop.cn/iwshop_release/iwshop-beta-0.9.2.zip" target="_blank">iwshop-beta-0.9.2.zip</a> 
+## 相关下载 iWshop相关下载
 
-><a href="http://down.iwshop.cn/iwshop_release/iwshop-beta-0.9.3.zip" target="_blank">iwshop-beta-0.9.3.zip</a> 
+><a href="http://down.iwshop.cn/iwshop_release/iwshop-beta-0.9.0.zip" target="_blank">iwshop-beta-0.9.0.zip</a>
+
+><a href="http://down.iwshop.cn/iwshop_release/iwshop-beta-0.9.1.zip" target="_blank">iwshop-beta-0.9.1.zip</a>
+
+><a href="http://down.iwshop.cn/iwshop_release/iwshop-beta-0.9.2.zip" target="_blank">iwshop-beta-0.9.2.zip</a>
+
+><a href="http://down.iwshop.cn/iwshop_release/iwshop-beta-0.9.3.zip" target="_blank">iwshop-beta-0.9.3.zip</a>
 
 ><a href="http://down.iwshop.cn/iwshop_release/iwshop-beta-0.9.4.zip" target="_blank">iwshop-beta-0.9.4.zip</a>
