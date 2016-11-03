@@ -10,24 +10,7 @@ WXCenter是一个开源的微信商城。为了保证轻量级，使用了iWshop
 ***
 
 
-LightMvc现已分离 <a href="https://git.oschina.net/koodo/LightMvc">https://git.oschina.net/koodo/LightMvc</a>
-
-
->iWshop 交流社区：<a href="http://asw.iwshop.cn/" target="_blank">http://asw.iwshop.cn/</a>
-
->iWshop 安装教程：<a href="http://git.oschina.net/koodo/iWshop/blob/dev/html/docs/install.md">http://git.oschina.net/koodo/iWshop/blob/dev/html/docs/install.md</a>
-
-
->安装教程图文教程及注意事项(JerryJee提供的教程)：<a target="_blank" href="http://www.jiloc.com/htmls/41.html">http://www.jiloc.com/htmls/41.html</a>
-
->微信公众平台三方接入技术问题总结,提问前必看(JerryJee提供的教程)：<a target="_blank" href="http://www.jiloc.com/htmls/43.html">http://www.jiloc.com/htmls/43.html</a>
-
->添加对wordpres的文章整合，可实现微信关键词对wordpress的内容匹配：<a target="_blank" href="http://www.jiloc.com/htmls/46.html">http://www.jiloc.com/htmls/46.html</a>
-
-
->`历史版本发布` <a target="_blank" href="http://git.oschina.net/koodo/iWshop/releases">http://git.oschina.net/koodo/iWshop/releases</a>
-
-##配置说明 （请注意，iWshop当前稳定版正在开发中，请谨慎安装）
+##配置说明 （请注意）
 
 ####一、根目录修改说明
 
@@ -48,9 +31,9 @@ LightMvc现已分离 <a href="https://git.oschina.net/koodo/LightMvc">https://gi
 
 - 导入`/install/iWshop.sql`
 
-- 后台地址（以域名www.iwshop.cn为例）为：http://www.iwshop.cn/?/Wdmin/login/
+- 后台地址（以域名www.iwshop.cn为例）为：http://www.youdomain.cn/?/Wdmin/login/
 
-- 微信消息接口地址：http://www.iwshop.cn/wechat/ (切莫忘了最后的 / )
+- 微信消息接口地址：http://www.youdomain.cn/wechat/ (切莫忘了最后的 / )
 
 ####三、目录权限说明
 
@@ -95,14 +78,5 @@ LightMvc现已分离 <a href="https://git.oschina.net/koodo/LightMvc">https://gi
 >扩展的新功能(截图相关)
 
 
-## 相关下载 iWshop相关下载
-
-><a href="http://down.iwshop.cn/iwshop_release/iwshop-beta-0.9.0.zip" target="_blank">iwshop-beta-0.9.0.zip</a>
-
-><a href="http://down.iwshop.cn/iwshop_release/iwshop-beta-0.9.1.zip" target="_blank">iwshop-beta-0.9.1.zip</a>
-
-><a href="http://down.iwshop.cn/iwshop_release/iwshop-beta-0.9.2.zip" target="_blank">iwshop-beta-0.9.2.zip</a>
-
-><a href="http://down.iwshop.cn/iwshop_release/iwshop-beta-0.9.3.zip" target="_blank">iwshop-beta-0.9.3.zip</a>
-
-><a href="http://down.iwshop.cn/iwshop_release/iwshop-beta-0.9.4.zip" target="_blank">iwshop-beta-0.9.4.zip</a>
+## 相关下载   相关下载
+ 
